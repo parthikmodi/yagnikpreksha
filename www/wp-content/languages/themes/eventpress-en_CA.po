@@ -1,0 +1,551 @@
+# Translation of Themes - EventPress in English (Canada)
+# This file is distributed under the same license as the Themes - EventPress package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-12-06 06:16:50+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: en_CA\n"
+"Project-Id-Version: Themes - EventPress\n"
+
+#. Description of the theme
+msgid "EventPress is a Seasonal WordPress theme. It comes with lots of powerful features. EventPress is suited for Christmas, New Year, Valentine, Wedding, Seminar, Webinar, Birthday, Concerts, and any type of websites. Awesome features included in this theme such as Slider, Organizer, Coming Soon, Donation Features, Gallery, Event Schedule, Background Music, etc. Fully compatible with Give Donation Plugin, Contact Form 7, Revolution Slider, Elementor, Visual Composer, Yoast SEO, and WooCommerce. Various page templates ready in the theme like Blog Sidebar Left & Right, Masonry and many more. Get 24x7 support with both the free and the Pro versions. Explore the demo - https://www.nayrathemes.com/demo/lite/eventpress/"
+msgstr "EventPress is a Seasonal WordPress theme. It comes with lots of powerful features. EventPress is suited for Christmas, New Year, Valentine, Wedding, Seminar, Webinar, Birthday, Concerts, and any type of websites. Awesome features included in this theme such as Slider, Organizer, Coming Soon, Donation Features, Gallery, Event Schedule, Background Music, etc. Fully compatible with Give Donation Plugin, Contact Form 7, Revolution Slider, Elementor, Visual Composer, Yoast SEO, and WooCommerce. Various page templates ready in the theme like Blog Sidebar Left & Right, Masonry and many more. Get 24x7 support with both the free and the Pro versions. Explore the demo - https://www.nayrathemes.com/demo/lite/eventpress/"
+
+#. Theme Name of the theme
+msgid "EventPress"
+msgstr "EventPress"
+
+#: inc/customize/eventpress-premium.php:35
+msgid "Show Some Love"
+msgstr "Show Some Love"
+
+#: inc/customize/eventpress-premium.php:31
+msgid "Free Vs Pro"
+msgstr "Free vs Pro"
+
+#: inc/customize/eventpress-premium.php:29
+msgid "Get Support"
+msgstr "Get Support"
+
+#: inc/customize/eventpress-premium.php:27
+msgid "View Documentation"
+msgstr "View Documentation"
+
+#: inc/customize/eventpress-premium.php:12
+#: inc/customize/eventpress-premium.php:33
+msgid "Upgrade to Pro"
+msgstr "Upgrade to Pro"
+
+#: inc/upsale/class-customize.php:77
+msgid "Click Here"
+msgstr "Click Here"
+
+#: inc/upsale/class-customize.php:76
+msgid "Go Pro"
+msgstr "Go Pro"
+
+#: footer.php:74
+msgid "© 2019 All Right Reserved | EventPress WordPress Theme"
+msgstr "© 2019 All Right Reserved | EventPress WordPress Theme"
+
+#: header.php:21
+msgid "Skip to content"
+msgstr "Skip to content"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:663
+#: inc/customizer-repeater/class/customizer-repeater-control.php:696
+msgid "Add Icon"
+msgstr "Add Icon"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:658
+#: inc/customizer-repeater/class/customizer-repeater-control.php:688
+msgid "Remove Icon"
+msgstr "Remove Icon"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:641
+msgid "Social icons"
+msgstr "Social icons"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:633
+msgid "None"
+msgstr "None"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:628
+msgid "Image type"
+msgstr "Image type"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:621
+msgid "Upload Image"
+msgstr "Upload Image"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:618
+#: inc/customizer-repeater/class/customizer-repeater-control.php:632
+msgid "Image"
+msgstr "Image"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:583
+msgid "https://fontawesome.io/icons/"
+msgstr "https://fontawesome.com/icons"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:582
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:577
+#: inc/customizer-repeater/class/customizer-repeater-control.php:631
+msgid "Icon"
+msgstr "Icon"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:566
+msgid "Open link in new tab:"
+msgstr "Open link in new tab:"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:529
+msgid "Delete field"
+msgstr "Delete field"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:468
+msgid "skill"
+msgstr "skill"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:401
+msgid "Delete %s"
+msgstr "Delete %s"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:385
+#: inc/customizer-repeater/class/customizer-repeater-control.php:518
+msgid "Designation"
+msgstr "Designation"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:377
+#: inc/customizer-repeater/class/customizer-repeater-control.php:509
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:367
+#: inc/customizer-repeater/class/customizer-repeater-control.php:431
+msgid "Color"
+msgstr "Colour"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:343
+#: inc/customizer-repeater/class/customizer-repeater-control.php:498
+msgid "Video Url"
+msgstr "Video URL"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:329
+#: inc/customizer-repeater/class/customizer-repeater-control.php:485
+#: inc/customizer-repeater/class/customizer-repeater-control.php:655
+#: inc/customizer-repeater/class/customizer-repeater-control.php:677
+msgid "Link"
+msgstr "Link"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:318
+#: inc/customizer-repeater/class/customizer-repeater-control.php:475
+msgid "Button Text"
+msgstr "Button Text"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:310
+msgid "skills"
+msgstr "skills"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:303
+#: inc/customizer-repeater/class/customizer-repeater-control.php:461
+msgid "Button Label"
+msgstr "Button Label"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:289
+#: inc/customizer-repeater/class/customizer-repeater-control.php:447
+msgid "Subtitle"
+msgstr "Subtitle"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:39
+msgid "Customizer Repeater"
+msgstr "Customizer Repeater"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:34
+msgid "Add new field"
+msgstr "Add new field"
+
+#: inc/customize/eventpress-header-section.php:113
+msgid "Sticky Header"
+msgstr "Sticky Header"
+
+#: inc/customize/eventpress-header-section.php:100
+msgid "Button link"
+msgstr "Button link"
+
+#: inc/customize/eventpress-header-section.php:81
+msgid "Button label"
+msgstr "Button label"
+
+#: inc/customize/eventpress-header-section.php:62
+msgid "Button Icon"
+msgstr "Button Icon"
+
+#: inc/customize/eventpress-header-section.php:53
+msgid "fa-bell"
+msgstr "fa-bell"
+
+#: inc/customize/eventpress-header-section.php:24
+msgid "Button Setting"
+msgstr "Button Setting"
+
+#: inc/customize/eventpress-header-section.php:13
+msgid "Header Section"
+msgstr "Header Section"
+
+#: inc/customize/eventpress-blog.php:121
+msgid "No of Posts Display"
+msgstr "No of Posts Display"
+
+#: inc/customize/eventpress-blog.php:110
+msgid "3"
+msgstr "3"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:296
+#: inc/customizer-repeater/class/customizer-repeater-control.php:454
+#: inc/customize/eventpress-blog.php:98
+msgid "Description"
+msgstr "Description"
+
+#: inc/customize/eventpress-blog.php:74
+msgid "Section Separator"
+msgstr "Section Separator"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:281
+#: inc/customizer-repeater/class/customizer-repeater-control.php:439
+#: inc/customize/eventpress-blog.php:53
+msgid "Title"
+msgstr "Title"
+
+#: inc/customize/eventpress-blog.php:9
+msgid "Blog Section"
+msgstr "Blog Section"
+
+#: inc/customize/eventpress-breadcrumb.php:71
+msgid "Background Image"
+msgstr "Background Image"
+
+#: inc/customize/eventpress-breadcrumb.php:53
+msgid "Background"
+msgstr "Background"
+
+#: inc/customize/eventpress-breadcrumb.php:42
+msgid "Breadcrumb Hide/Show"
+msgstr "Breadcrumb Hide/Show"
+
+#: inc/customize/eventpress-breadcrumb.php:23
+msgid "Settings"
+msgstr "Settings"
+
+#: inc/customize/eventpress-breadcrumb.php:12
+msgid "Page Breadcrumb"
+msgstr "Page Breadcrumb"
+
+#: inc/customize/customizer_recommended_plugin.php:18
+msgid "Deactivate"
+msgstr "Deactivate"
+
+#: inc/customize/customizer_recommended_plugin.php:17
+msgid "Activate"
+msgstr "Activate"
+
+#: inc/customize/customizer_recommended_plugin.php:16
+msgid "Install and Activate"
+msgstr "Install and Activate"
+
+#: inc/customize/customizer_recommended_plugin.php:15
+msgid "Recommended Plugin"
+msgstr "Recommended Plugin"
+
+#: inc/customize/customizer_recommended_plugin.php:14
+msgid "Recommended Actions"
+msgstr "Recommended Actions"
+
+#: inc/customize/eventpress-footer-section.php:230
+msgid "Upload Image for Background"
+msgstr "Upload Image for Background"
+
+#: inc/customize/eventpress-footer-section.php:228
+msgid "Set Background Image"
+msgstr "Set Background Image"
+
+#: inc/customize/eventpress-footer-section.php:189
+#: inc/customize/eventpress-blog.php:30
+#: inc/customize/eventpress-header-section.php:43
+#: inc/customize/eventpress-header-section.php:131
+msgid "Hide / Show Section"
+msgstr "Hide / Show Section"
+
+#: inc/customize/eventpress-footer-section.php:169
+#: inc/customize/eventpress-footer-section.php:209
+msgid "Copyright Content"
+msgstr "Copyright Content"
+
+#: inc/customize/eventpress-footer-section.php:157
+msgid "Address"
+msgstr "Address"
+
+#: inc/customize/eventpress-footer-section.php:156
+msgid "Add New Address"
+msgstr "Add New Address"
+
+#: inc/customize/eventpress-footer-section.php:154
+msgid "Footer Address"
+msgstr "Footer Address"
+
+#: inc/customize/eventpress-footer-section.php:130
+msgid "Hide / Show Address"
+msgstr "Hide / Show Address"
+
+#: inc/customize/eventpress-footer-section.php:110
+msgid "Footer Address Info"
+msgstr "Footer Address Info"
+
+#: inc/customize/eventpress-footer-section.php:100
+#: inc/customize/eventpress-blog.php:80
+msgid "Pattern 2"
+msgstr "Pattern 2"
+
+#: inc/customize/eventpress-footer-section.php:99
+#: inc/customize/eventpress-blog.php:79
+msgid "Pattern 1"
+msgstr "Pattern 1"
+
+#: inc/customize/eventpress-footer-section.php:94
+msgid "Separator"
+msgstr "Separator"
+
+#: inc/customize/eventpress-footer-section.php:74
+msgid "Regards Text"
+msgstr "Regards Text"
+
+#: inc/customize/eventpress-footer-section.php:55
+msgid "Footer Logo"
+msgstr "Footer Logo"
+
+#: inc/customize/eventpress-footer-section.php:37
+msgid "Hide / Show Footer Top"
+msgstr "Hide / Show Footer Top"
+
+#: inc/customize/eventpress-footer-section.php:17
+msgid "Footer Top"
+msgstr "Footer Top"
+
+#: inc/customize/eventpress-footer-section.php:10
+msgid "Footer Section"
+msgstr "Footer Section"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:72
+msgid "Edit %s"
+msgstr "Edit %s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:65
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+
+#: inc/template-tags.php:58
+msgid "Tagged %1$s"
+msgstr "Tagged %1$s"
+
+#: inc/template-tags.php:52
+msgid "Posted in %1$s"
+msgstr "Posted in %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:50 inc/template-tags.php:56
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "by %s"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Posted on %s"
+
+#: inc/customizer.php:38
+msgid "Homepage Sections"
+msgstr "Home Page Sections"
+
+#: inc/sidebar/sidebar.php:20
+msgid "The Primary Widget Area"
+msgstr "The Primary Widget Area"
+
+#: inc/sidebar/sidebar.php:18
+msgid "Sidebar Widget Area"
+msgstr "Sidebar Widget Area"
+
+#: inc/customizer-notify/eventpress-customizer-notify.php:110
+msgid "Activating"
+msgstr "Activating"
+
+#: inc/class-wp-bootstrap-navwalker.php:366
+msgid "Add a menu"
+msgstr "Add a menu"
+
+#: inc/breadcrumb/breadcrumb.php:146
+msgid "Page"
+msgstr "Page"
+
+#: inc/breadcrumb/breadcrumb.php:141
+msgid "Error 404 "
+msgstr "Error 404 "
+
+#: inc/breadcrumb/breadcrumb.php:137
+msgid "Articles posted by "
+msgstr "Articles posted by "
+
+#: inc/breadcrumb/breadcrumb.php:131
+msgid "Posts tagged "
+msgstr "Posts tagged "
+
+#: inc/breadcrumb/breadcrumb.php:32
+msgid "Search results for "
+msgstr "Search results for "
+
+#: inc/breadcrumb/breadcrumb.php:26
+msgid "Archive by category"
+msgstr "Archive by category"
+
+#: inc/breadcrumb/breadcrumb.php:6
+msgid "Home"
+msgstr "Home"
+
+#: inc/breadcrumb/breadcrumb.php:4 inc/breadcrumb/breadcrumb.php:7
+#: inc/customize/eventpress-blog.php:21
+#: inc/customize/eventpress-header-section.php:33
+msgid "1"
+msgstr "1"
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:41 comments.php:62
+msgid "Newer Comments"
+msgstr "Newer Comments"
+
+#: comments.php:40 comments.php:61
+msgid "Older Comments"
+msgstr "Older Comments"
+
+#: comments.php:37 comments.php:58
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: 404.php:28
+msgid "Some Text here"
+msgstr "Some Text here"
+
+#: 404.php:20
+msgid "Ops! Something happened..."
+msgstr "Ops! Something happened..."
+
+#: 404.php:19
+msgid "Oops! That page can’t be found."
+msgstr "Oops! That page can’t be found."
+
+#: sections/eventpress-breadcrumb.php:46
+msgid "Pricing Categories: %s"
+msgstr "Pricing Categories: %s"
+
+#: sections/eventpress-breadcrumb.php:42
+msgid "Portfolio Categories: %s"
+msgstr "Portfolio Categories: %s"
+
+#: sections/eventpress-breadcrumb.php:38
+msgid "Author: %s"
+msgstr "Author: %s"
+
+#: sections/eventpress-breadcrumb.php:34
+msgid "Error 404"
+msgstr "Error 404"
+
+#: sections/eventpress-breadcrumb.php:30
+msgid "Tag Archives: %s"
+msgstr "Tag Archives: %s"
+
+#: sections/eventpress-breadcrumb.php:26
+msgid "Category Archives: %s"
+msgstr "Category Archives: %s"
+
+#: sections/eventpress-breadcrumb.php:22
+msgid "Yearly Archives: %s"
+msgstr "Yearly Archives: %s"
+
+#: sections/eventpress-breadcrumb.php:18
+msgid "Monthly Archives: %s"
+msgstr "Monthly Archives: %s"
+
+#: sections/eventpress-breadcrumb.php:14
+msgid "Daily Archives: %s"
+msgstr "Daily Archives: %s"
+
+#: functions.php:29
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#. Template Name of the theme
+msgid "Page Fullwidth"
+msgstr "Page Fullwidth"
+
+#. Template Name of the theme
+msgid "Homepage One"
+msgstr "Home Page One"
+
+#: single.php:33
+msgid "Comments"
+msgstr "Comments"
+
+#: sections/section-blog.php:76 single.php:46
+#: template-parts/content-page.php:43 template-parts/content-search.php:43
+msgid "Read More"
+msgstr "Read More"
+
+#: single.php:32 template-parts/content-page.php:22
+#: template-parts/content-search.php:22
+msgid "By"
+msgstr "By"
+
+#: template-parts/content.php:38
+msgid "Pages:"
+msgstr "Pages:"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:33
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: template-parts/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#. Theme URI of the theme
+msgid "https://www.nayrathemes.com/eventpress-free/"
+msgstr "https://www.nayrathemes.com/eventpress-free/"
+
+#. Author URI of the theme
+msgid "https://www.nayrathemes.com/"
+msgstr "https://www.nayrathemes.com/"
+
+#. Author of the theme
+msgid "Nayra Themes"
+msgstr "Nayra Themes"
